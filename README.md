@@ -1,1 +1,3 @@
 # TP_GIT
+# Guillaume DURANDIERE
+# 11/10/16
